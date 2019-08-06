@@ -1,6 +1,6 @@
-# Name Generator
+# Flutter Practice Repo
 
-A Flutter App that generates combinations of two random words and allows you to save a list of favorite suggestions.
+A repo to store my Flutter/Dart application development practice.
 
 ## Getting Started
 
