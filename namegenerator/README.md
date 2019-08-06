@@ -1,6 +1,6 @@
 # Name Generator
 
-A new Flutter project.
+A Flutter App that generates combinations of two random words and allows you to save a list of favorite suggestions.
 
 ## Getting Started
 
