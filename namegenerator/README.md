@@ -1,4 +1,4 @@
-# staticmapsapp
+# Name Generator
 
 A new Flutter project.
 
