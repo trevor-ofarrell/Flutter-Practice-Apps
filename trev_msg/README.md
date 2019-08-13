@@ -1,7 +1,6 @@
 # trev_msg
 
-A new Flutter project.
-
+A messaging applicaton made with the Flutter framework and the Dart programming lang.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
