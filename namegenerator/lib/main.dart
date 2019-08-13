@@ -1,6 +1,5 @@
 import 'package:english_words/english_words.dart'
     show WordPair, generateWordPairs;
-import 'package:english_words/english_words.dart' as prefix0;
 import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
 
@@ -12,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'NAME GEN',
       theme: ThemeData(
-        primaryColor: Colors.blueGrey,
+        primaryColor: Colors.pink,
       ),
       home: RandomWords(),
     );
@@ -76,7 +75,7 @@ class RandomWordsState extends State<RandomWords> {
       ),
       trailing: Icon(
         alreadySaved ? Icons.favorite : Icons.favorite_border,
-        color: alreadySaved ? Colors.red : null,
+        color: alreadySaved ? Colors.red : Colors.brown,
       ),
       onTap: () {
         setState(() {
